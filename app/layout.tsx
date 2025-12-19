@@ -6,13 +6,13 @@ import '@/lib/builder';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Test Client 8 | Marketing Solutions',
-  description: 'Professional marketing solutions for lead generation and brand presence. Partner with Test Client 8 for innovative marketing strategies.',
-  keywords: 'marketing, lead generation, brand presence, digital marketing, marketing solutions',
-  authors: [{ name: 'Test Client 8' }],
+  title: 'test-client-8 | Builder.io Integration Test',
+  description: 'Testing Builder.io and Vercel synchronization for test-client-8',
+  keywords: ['test', 'builder.io', 'vercel', 'integration'],
+  authors: [{ name: 'test-client-8' }],
   openGraph: {
-    title: 'Test Client 8 | Marketing Solutions',
-    description: 'Professional marketing solutions for lead generation and brand presence.',
+    title: 'test-client-8 | Builder.io Integration Test',
+    description: 'Testing Builder.io and Vercel synchronization',
     type: 'website',
   },
 };
